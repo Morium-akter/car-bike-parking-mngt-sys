@@ -1,0 +1,23 @@
+
+ 
+.search ul li .slot{
+	    height: 300px;
+    width: 500px;
+   
+    padding: 49px;
+    background: skyblue;
+   margin: 150px 12px 0px 40px;
+    border-radius: 10px;
+	
+}
+
+.search ul li .slot1{
+	    height: 300px;
+    width: 500px;
+   
+    padding: 49px;
+    background: skyblue;
+   margin: -300px 12px 0px 600px;
+    border-radius: 10px;
+	
+}

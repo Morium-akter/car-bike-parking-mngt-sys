@@ -1,0 +1,43 @@
+.car{
+	width:95%;
+	height:350px;
+	overflow:hidden;
+	background:skyblue;
+	margin:20px 0px 0px 0px;
+	
+}
+.car ul{
+	padding:0px;
+	margin:0px;
+}
+.car ul li{
+	list-style: none;
+	float: left;
+	width:16%;
+	height:120px;
+	background:#c0392b;
+	margin:45px -35px 0px 46px;
+	
+}
+.car ul li .car1{
+	width:100%;
+	height:30px;
+	line-height:38px;
+	background:white;
+	text-align:center;	
+}
+
+.car ul li .car2{
+	width:100%;
+	height:50px;
+	line-height:40px;
+	background:#c0392b;
+	text-align:center;
+}
+.car ul li .car3{
+	width:100%;
+	height:50px;
+	line-height:40px;
+	background:green;
+	text-align:center;
+}

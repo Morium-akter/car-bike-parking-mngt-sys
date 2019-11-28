@@ -1,0 +1,43 @@
+
+ 
+.search ul li .slot{
+	    height: 300px;
+    width: 250px;
+   
+    padding: 49px;
+    background: skyblue;
+   margin: 150px 12px 0px 0px;
+    border-radius: 10px;
+	
+}
+
+.search ul li .slot1{
+	    height: 300px;
+    width: 250px;
+   
+    padding: 49px;
+    background: skyblue;
+   margin: -300px 12px 0px 300px;
+    border-radius: 10px;
+	
+}
+.search ul li .slot2{
+	    height: 300px;
+    width: 250px;
+   
+    padding: 49px;
+    background: skyblue;
+   margin: -300px 12px 0px 600px;
+    border-radius: 10px;
+	
+}
+.search ul li .slot3{
+	    height: 300px;
+    width: 250px;
+   
+    padding: 49px;
+    background: skyblue;
+   margin: -300px 12px 0px 900px;
+    border-radius: 10px;
+	
+}

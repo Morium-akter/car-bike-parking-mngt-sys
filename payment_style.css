@@ -1,0 +1,14 @@
+.slot{
+	    height: 800px;
+    width: 500px;
+   
+    padding: 49px;
+    background: skyblue;
+   margin: 52px 12px 0px 350px;
+    border-radius: 10px;
+	
+}
+form {
+    position: relative;
+    padding: 10px;
+}
